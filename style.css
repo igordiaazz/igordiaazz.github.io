@@ -115,6 +115,18 @@ h3,
 p{
     text-align: center;
 }
+
+.porshe-up-view{
+    transform: rotate(90deg);
+    margin-left: 600px;
+    scale: 150%;
+    margin-top: 300px;
+    margin-bottom: 300px;
+}
+
+
+
+
 /*Comprar*/
 
 .comprar{
